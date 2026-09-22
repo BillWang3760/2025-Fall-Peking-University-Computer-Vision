@@ -1,0 +1,17 @@
+Task 1 running time (window_size=2, disparity_range=(0, 20), matching_function=SSD): 9.462082386016846
+Task 1 running time (window_size=5, disparity_range=(0, 20), matching_function=SSD): 9.544005393981934
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=SSD): 9.898839235305786
+Task 1 running time (window_size=20, disparity_range=(0, 20), matching_function=SSD): 11.067171573638916
+Task 1 running time (window_size=2, disparity_range=(0, 20), matching_function=normalized_correlation): 69.91195583343506
+Task 1 running time (window_size=5, disparity_range=(0, 20), matching_function=normalized_correlation): 85.43727374076843
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=normalized_correlation): 77.32371854782104
+Task 1 running time (window_size=20, disparity_range=(0, 20), matching_function=normalized_correlation): 100.02356052398682
+Task 1 running time (window_size=10, disparity_range=(0, 5), matching_function=SSD): 2.9466404914855957
+Task 1 running time (window_size=10, disparity_range=(0, 5), matching_function=normalized_correlation): 22.945095777511597
+Task 1 running time (window_size=10, disparity_range=(0, 10), matching_function=SSD): 5.7782301902771
+Task 1 running time (window_size=10, disparity_range=(0, 10), matching_function=normalized_correlation): 41.934810638427734
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=SSD): 10.4430570602417
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=normalized_correlation): 75.06681418418884
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=SSD): 10.057991027832031
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=SAD): 9.974781036376953
+Task 1 running time (window_size=10, disparity_range=(0, 20), matching_function=normalized_correlation): 77.68101572990417
